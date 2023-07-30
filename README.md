@@ -11,10 +11,10 @@
 
 <div align="center">
   
-| [윤태연](https://github.com/rhino-ty) | [이희진](https://github.com/h1em0n1m) | [전예린](https://github.com/sweetyr928) | [이종희](https://github.com/hie6953) | [임준건](https://github.com/ke2007) | [임준오](https://github.com/dlawnsdh) |
-| :-----------------------------------: | :-----------------------------------: | :----------------------------------: | :----------------------------------: | :------------------------------------: | :-------------------------------------: |
-|<img src="https://avatars.githubusercontent.com/u/94962427?v=4" width="300">|<img src="https://avatars.githubusercontent.com/u/111138420?v=4" width="300">|<img src="https://user-images.githubusercontent.com/39157466/216241448-ea2b2082-c035-4e65-b5dc-564abb0938c4.png" width="300">|<img src="https://avatars.githubusercontent.com/u/68373532?v=4" width="300">|<img src="https://avatars.githubusercontent.com/u/73016277?v=4" width="300">|<img src="https://avatars.githubusercontent.com/u/77203609?v=4" width="300" >|
-|            👑팀장<br>FE              |                  FE                   |                  FE                  |                  BE                  |                   BE                   |                   BE                    |
+| [윤태연](https://github.com/rhino-ty) | [김유나](https://github.com/yxunakim84) | [유수빈](https://github.com/JudithHopps) | [김재훈](https://github.com/halmokme) | [양연주](https://github.com/yeonkr) | 
+| :-----------------------------------: | :-----------------------------------: | :----------------------------------: | :----------------------------------: | :------------------------------------: |
+|<img src="https://avatars.githubusercontent.com/u/94962427?v=4" width="300">|<img src="https://avatars.githubusercontent.com/u/79031435?v=4" width="300">|<img src="https://avatars.githubusercontent.com/u/113181934?v=4" width="300">|<img src="https://avatars.githubusercontent.com/u/107684690?v=4" width="300">|<img src="https://avatars.githubusercontent.com/u/104279155?v=4" width="300">|
+|            👑팀장<br>Auth              |                  역할                   |                  FE                  |                  BE                  |                   BE                   |
   
 </div>
 
@@ -155,20 +155,10 @@ DB에서 가져온 검색 및 장소 데이터의 마커 호출 관련 기능 �
 <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" height="35">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typeScript&amp;logoColor=white" height="35"> 
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black" height="35"> 
-<img src="https://img.shields.io/badge/Kakao-FFCD00?style=for-the-badge&amp;logo=kakao&amp;logoColor=black" height="35"> 
 <img src="https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&amp;logo=mui&amp;logoColor=white" height="35">
 <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&amp;logo=axios&amp;logoColor=white" height="35">
 <img src="https://img.shields.io/badge/recoil-3578EC?style=for-the-badge&amp;logo=recoil&amp;logoColor=white" height="35">
 <img src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&amp;logo=eslint&amp;logoColor=white" height="35">
-</div>
-
-#### **DevOps**
-
-<div align=left> 
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="35"> 
-<img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=black" height="35"> 
-<img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white" height="35">
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white" height="35">
 </div>
 
 #### **Common**
